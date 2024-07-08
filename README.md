@@ -94,6 +94,7 @@ This section shows the total sales, total sales percentage for weekdays and week
 • Use tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific hour of the day.
 
 **Example:**
+
 ![](/Dashboard%20Screenshot%20&%20Feature/tooltip2.jpg)
 
 This is detailed metrics on Monday at 17 o'clock.
