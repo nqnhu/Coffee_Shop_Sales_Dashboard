@@ -21,7 +21,7 @@
   - **product_detail**: detailed information of the product (origin,...)
 
 ## **Analysis**
-![](/Dashboard Screenshot & Feature/dashboard.jpg)
+![](/Coffee_Shop_Sales_Dashboard/Dashboard%20Screenshot%20&%20Feature/dashboard.jpg)
 
 ### **Filter Panel**
 ![](/Coffee_Shop_Sales_Dashboard/Dashboard%20Screenshot%20&%20Feature/filter%20panel.jpg)
